@@ -1,2 +1,3 @@
 # prezence
-git demo for 4it115
+
+uprava cislo 1
